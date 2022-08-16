@@ -1,0 +1,10 @@
+D:\Tools\CustomScripts\SharpPowers\SharpPowers\bin\Debug\SharpPowers.exe.config
+D:\Tools\CustomScripts\SharpPowers\SharpPowers\bin\Debug\SharpPowers.exe
+D:\Tools\CustomScripts\SharpPowers\SharpPowers\bin\Debug\SharpPowers.pdb
+D:\Tools\CustomScripts\SharpPowers\SharpPowers\obj\Debug\SharpPowers.csproj.AssemblyReference.cache
+D:\Tools\CustomScripts\SharpPowers\SharpPowers\obj\Debug\SharpPowers.csproj.SuggestedBindingRedirects.cache
+D:\Tools\CustomScripts\SharpPowers\SharpPowers\obj\Debug\SharpPowers.csproj.CoreCompileInputs.cache
+D:\Tools\CustomScripts\SharpPowers\SharpPowers\obj\Debug\SharpPowers.exe
+D:\Tools\CustomScripts\SharpPowers\SharpPowers\obj\Debug\SharpPowers.pdb
+D:\Tools\CustomScripts\SharpPowers\SharpPowers\obj\Debug\Interop.TaskScheduler.dll
+D:\Tools\CustomScripts\SharpPowers\SharpPowers\obj\Debug\SharpPowers.csproj.ResolveComReference.cache
